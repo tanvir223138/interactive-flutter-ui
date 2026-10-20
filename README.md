@@ -1,17 +1,58 @@
-# counter_boxes
+\# Counter Boxes - Interactive Flutter UI
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+\## Description
 
-A few resources to get you started if this is your first Flutter project:
+This project is an interactive Flutter application with three horizontal sections: a red box on the left, a yellow counter box in the middle, and a color-changing box on the right.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+\## Features
+
+\- Three horizontal colored boxes.
+
+\- Counter starts at 0.
+
+\- Tapping the yellow box increases the counter by 1.
+
+\- The right box turns green when the counter is even.
+
+\- The right box turns blue when the counter is odd.
+
+\- Responsive layout for different screen sizes.
+
+
+
+\## Technology
+
+\- Flutter
+
+\- Dart
+
+\- Android Studio
+
+\- Git and GitHub
+
+
+
+\## How to Run
+
+1\. Clone or download this repository.
+
+2\. Open the project in Android Studio.
+
+3\. Run `flutter pub get` in the terminal.
+
+4\. Start an Android emulator or connect an Android device.
+
+5\. Run the application.
+
+
+
+\## Author
+
+Abul Hasnat Tanvir
+
+
+
